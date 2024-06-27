@@ -8,7 +8,8 @@ The Northwind database is a sample database created by Microsoft and used for tu
 The dataset used for this analysis is sourced from the YugaByte database and is accessible at the following link: [Northwind Sample Data](https://docs.yugabyte.com/preview/sample-data/northwind/).
 
 ## Entity Relationship Diagram (ERD)
-![ERD](NorthwindERD.PNG)
+![Northwind ERD](https://github.com/DamiData/Northwind-SQL/assets/161587504/3dde62ff-0659-4675-ac6e-ec0e71faff62)
+
 
 ## Data Processing
 
